@@ -21,6 +21,7 @@ for i in range(total_items):
     time.sleep(0.1)
     # Update Progress Bar
     pb.print_progress(i + 1)
+```
 
 ## Author
 Felipe
